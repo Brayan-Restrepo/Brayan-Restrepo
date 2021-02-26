@@ -15,17 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-<div align="center">
- <img src="https://github.com/beeman/beeman/raw/master/under-construction.gif" />
-</div>
-
-
-Thanks for checking my profile! 
-
-If you want to get in touch, send me a message on [twitter]. Also, I recently started to [blog on DEV] so follow me there!
-
-
 <div>
-<img align="center" src="https://profile-counter.glitch.me/beeman/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/Brayan-Restrepo/count.svg" />
 </div>
