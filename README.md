@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Programing languages
 
-![Golang]
-![Python]
-![Node.js]
-![Javascript]
-![VueJs]
-![Angular]
+Golang
+Python
+Node.js
+Javascript
+VueJs
+Angular
 
 ## Stats
 
