@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Programing languages
 
-![Python](https://img.icons8.com/color/48/000000/python.svg)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.svg)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.svg)
-![Javascript](https://img.icons8.com/color/48/000000/javascript.svg)
-![VueJs](https://img.icons8.com/color/1x/vue-js.svg)
-![Angular](https://img.icons8.com/color/1x/angularjs.svg)
+![Golang]
+![Python]
+![Node.js]
+![Javascript]
+![VueJs]
+![Angular]
 
 ## Stats
 
